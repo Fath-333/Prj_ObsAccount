@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite">
+  <test name="Test1">
+    <classes>
+      <class name="projectTestCases.LoginTC"/>
+    </classes>
+  </test> <!-- Test -->
+   <test name="Test2">
+    <classes>
+      <class name="projectTestCases.UnitTC"/>
+    </classes>
+  </test>
+   <test name="Test3">
+    <classes>
+      <class name="projectTestCases.CategoryTC"/>
+    </classes>
+  </test>
+   <test name="Test4">
+    <classes>
+      <class name="projectTestCases.BrandTC"/>
+    </classes>
+  </test>
+</suite> <!-- Suite -->

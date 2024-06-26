@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite">
+  <test name="Test">
+    <classes>
+      <class name="sequential.LoginTC"/>
+      <class name="sequential.CategoryTC"/>
+      <class name="sequential.UnitTC"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
