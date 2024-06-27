@@ -22,7 +22,7 @@
         <version>3.2.5</version>
         <configuration>
           <suiteXmlFiles>
-            <suiteXmlFile>testngSingleParallel.xml</suiteXmlFile>
+            <suiteXmlFile>SingleParalleltestng.xml</suiteXmlFile>
           </suiteXmlFiles>
         </configuration>
       </plugin>
